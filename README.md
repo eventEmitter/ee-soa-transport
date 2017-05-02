@@ -1,5 +1,7 @@
 # ee-soa-transport
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-transport.svg)](https://greenkeeper.io/)
+
 Basic SOA Transport implementation. Your transport implementation should inherit from this class. This class inherits from EventEmitter.
 
 ## installation
